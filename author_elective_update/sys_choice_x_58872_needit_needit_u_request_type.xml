@@ -40,8 +40,48 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Work Health &amp; Safety</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-02 01:04:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>875a0dd2075230106813f0ef7c1ed0eb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 23:51:43</sys_updated_on>
+            <value>WHS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-09 23:51:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8760e3c072230106813f0ef7c1ed0cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-09 23:51:43</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Information Technology</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
@@ -50,18 +90,18 @@
             <sys_created_on>2021-09-02 01:04:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>875a0dd2075230106813f0ef7c1ed0eb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>4f5a0dd2075230106813f0ef7c1ed0ed</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-09-02 01:04:24</sys_updated_on>
-            <value>WHS</value>
+            <sys_updated_on>2021-09-09 23:51:43</sys_updated_on>
+            <value>IT</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>false</inactive>
-            <label>Information Technology</label>
+            <inactive>true</inactive>
+            <label>Home &amp; Community Care</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -70,31 +110,31 @@
             <sys_created_on>2021-09-02 01:04:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4f5a0dd2075230106813f0ef7c1ed0ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>075a0dd2075230106813f0ef7c1ed0f0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-09-02 01:04:24</sys_updated_on>
-            <value>IT</value>
+            <sys_updated_on>2021-09-09 23:51:43</sys_updated_on>
+            <value>H&amp;CC</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Home &amp;community Care</label>
+            <label>Legal</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>3</sequence>
+            <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-09-02 01:04:24</sys_created_on>
+            <sys_created_on>2021-09-09 23:51:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>075a0dd2075230106813f0ef7c1ed0f0</sys_id>
+            <sys_id>2c760e3c072230106813f0ef7c1ed0d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-09-02 01:04:24</sys_updated_on>
-            <value>H&amp;CC</value>
+            <sys_updated_on>2021-09-09 23:51:43</sys_updated_on>
+            <value>legal</value>
         </sys_choice>
     </sys_choice>
 </record_update>
